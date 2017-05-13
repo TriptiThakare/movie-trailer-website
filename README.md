@@ -1,9 +1,10 @@
 ## Overview
 
 This project displays a list of movies with the following information:
-Title
-Poster Image
-Trailer
+
+- Title
+- Poster Image
+- Trailer
 
 
 ## Installation
